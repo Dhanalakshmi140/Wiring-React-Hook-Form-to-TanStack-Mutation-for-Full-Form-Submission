@@ -39,4 +39,3 @@ Only `client/src/components/ThreadForm.jsx`:
 - Submit the title **"Welcome to the forum"** → the server returns `400 Title already taken`,
   which must appear **inline** under the Title field.
 
-See `question.md` for the full brief and `rubric.md` for marking.
